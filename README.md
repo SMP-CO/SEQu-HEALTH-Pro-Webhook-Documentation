@@ -91,7 +91,7 @@ YES/NO answer to "Have you travelled outside of the Philippines in the past 14 d
 
 #### `travelCity`
 
-Answer to "Have you travelled to any area in `{{region}` aside from your home?" Where `region` is the administrative area your company is located (eg. Metro Manila, Metro Cebu)
+Answer to "Have you travelled to any area in `[region]` aside from your home?" Where `region` is the administrative area your company is located (eg. Metro Manila, Metro Cebu)
 
 If the employee's answer is "NO", this value will return `"NO"`
 
