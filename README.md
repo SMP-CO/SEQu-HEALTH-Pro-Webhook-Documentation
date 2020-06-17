@@ -149,3 +149,7 @@ Detailed information about the recommendation made by our AI symptom checkup. If
     ]
 }
 ```
+
+## Testing
+
+We will be providing an interface in the admin panel to test-fire the webhook with dummy data.
